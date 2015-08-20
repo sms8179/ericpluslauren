@@ -246,6 +246,7 @@ input[type="submit"], a {
       -ms-flex-align: center;
           align-items: center;
   height: 600px;
+  width: 100%;
   max-height: 100%;
   background: url("../../assets/img/Untitled-1.jpg");
     background-position: center top;
