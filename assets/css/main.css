@@ -319,8 +319,8 @@ input[type="submit"], a {
         .header--navbar .mobile-nav-toggle {
           display: block; } }
   .header--logo {
-    width: 640px;
-    max-width: 90%; }
+    width: 90%;
+    max-width: 640px; }
 
 section#our-story--proposal p, .our-story--proposal p {
   display: inline-block; }
