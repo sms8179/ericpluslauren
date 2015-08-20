@@ -2373,6 +2373,10 @@ Copyright (c) 2015 Daniel Eden
 * {
   box-sizing: border-box;
   line-height: 1; }
+  
+html, body {
+   width: 100%;
+}
 
 body, form, input, textarea {
   font-family: "freight-text-pro", sans-serif;
