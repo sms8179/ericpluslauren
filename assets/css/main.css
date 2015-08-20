@@ -2568,7 +2568,7 @@ input[type="submit"], a {
           align-items: center;
   height: 600px;
   max-height: 100%;
-  background: url("assets/img/Untitled-1.jpg");
+  background: url("../assets/img/Untitled-1.jpg");
     background-position: center top;
     background-attachment: fixed;
     background-size: auto 100%; }
@@ -2674,7 +2674,7 @@ section#our-story--Q1, .our-story--Q1 {
 
 #large-photo {
   height: 600px;
-  background: url("assets/img/DSC_0096.jpg");
+  background: url("../assets/img/DSC_0096.jpg");
     background-position: center top;
     background-attachment: fixed;
     background-size: auto 100%; }
@@ -2719,7 +2719,7 @@ section#party {
   width: 100%; }
 
 #travel-info {
-  background: url("assets/img/jp2.jpg") fixed;
+  background: url("../assets/img/jp2.jpg") fixed;
     background-size: cover; }
   #travel-info img {
     float: left;
@@ -2771,7 +2771,7 @@ section#party {
       margin-left: 1em; }
 
 #gifts {
-  background: url("assets/img/DSC_0110.jpg");
+  background: url("../assets/img/DSC_0110.jpg");
     background-size: 100% auto;
     background-position: center; }
   #gifts .section--heading {
